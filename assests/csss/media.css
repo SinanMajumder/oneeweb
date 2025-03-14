@@ -1,0 +1,381 @@
+@media (max-width: 1199.98px) {
+
+    .event .content .im2 {
+        left: 0;
+    }
+
+    .event .content .im1 {
+        left: 40px;
+    }
+
+
+
+    .event_banner .content .title {
+        margin-bottom: 25px;
+    }
+
+    .event_banner .content .envent_link {
+        padding-top: 25px;
+    }
+
+    .event_banner .content .content_img {
+        max-width: 90%;
+    }
+
+    .event_banner .content .title h1 {
+        font-size: 35px;
+    }
+
+    .event_banner .content .box h3 {
+        font-size: 23px;
+    }
+
+
+
+
+    .artist_banner .artist_heading h1 {
+        font-size: 90px;
+    }
+
+    #con443 {
+        padding-left: 2%;
+    }
+
+    .artist_banner .content h6,
+    .event_widget_one .content p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .artist_banner .content img {
+        max-width: 100%;
+        float: none;
+    }
+
+}
+
+@media (max-width: 991.98px) {
+
+    .container {
+        padding: 0 60px;
+    }
+
+    .banner {
+        padding: 5em 0;
+    }
+
+    .banner .content {
+        max-width: 100%;
+    }
+
+    .header .navbar-nav {
+        text-align: center;
+    }
+
+    .header .nav-item {
+        margin-left: 0;
+    }
+
+    .header .nav-link {
+        font-size: 20px;
+    }
+
+    .event .content .im1,
+    .event .content .im2 {
+        display: none;
+    }
+
+    #left_event {
+        padding-left: 0;
+    }
+
+    .event .content img.main_img {
+        width: 100%;
+    }
+
+    .event .content h1 {
+        font-size: 50px;
+    }
+
+    .chat .content h1 {
+        font-size: 35px;
+    }
+
+    .artist p {
+        padding-left: 0;
+    }
+
+
+    .contact__form .fields {
+        padding: 0;
+    }
+
+    .about_content p {
+        font-size: 16px;
+        line-height: 23px;
+        margin-bottom: 20px;
+    }
+
+    .about_content h2 {
+        font-size: 24px;
+        padding-top: 10px;
+    }
+
+
+    .im23,
+    .im24 {
+        display: none;
+    }
+
+    .contact__form {
+        border-left: none;
+    }
+
+
+
+
+    .artist_banner .artist_heading h1 {
+        font-size: 55px;
+    }
+
+    .artist_recent_work .content a {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+
+
+    .project_banner .banner_content .wrapper {
+        padding-left: 3%;
+    }
+
+    .artist_widget_four .social::before {
+        display: none;
+    }
+
+    .artist_widget_four .social {
+        justify-content: left;
+        margin-top: 40px;
+    }
+
+}
+
+@media (max-width: 767.98px) {
+
+    .artist .content {
+        margin: 20px 0;
+    }
+
+    .artist img {
+        width: 100%;
+    }
+
+    .heroimg,
+    .icon334 {
+        display: none;
+    }
+
+
+    .ui-tabs-nav.ui-widget-header,
+    .ui-tabs-vertical .ui-tabs-panel {
+        width: 100%;
+        max-width: 100%;
+        float: none;
+    }
+
+
+    .contact__form .input_single label {
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    .contact__form .input_single textarea {
+        height: 14em;
+    }
+
+
+    .event_banner .content .envent_link {
+        text-align: left;
+    }
+
+    .event_widget_one .content p,
+    .event_widget_two p {
+        font-size: 16px;
+        line-height: 23px;
+    }
+
+
+
+    .artist_banner .artist_heading {
+        padding-bottom: 30px;
+    }
+
+    .artist_banner .content {
+        min-height: auto;
+    }
+
+    .artist_banner .content img {
+        width: 100%;
+    }
+
+    .artist_banner .content .social {
+        position: relative;
+        bottom: inherit;
+        margin-top: 50px;
+    }
+
+    .artist_recent_work .title {
+        margin-bottom: 20px;
+    }
+
+
+
+    .artist_widget_four .spacer {
+        display: none;
+    }
+
+    .background_video {
+        width: 63em;
+        height: 32em;
+    }
+
+}
+
+@media (max-width: 575.98px) {
+
+
+    section {
+        overflow: hidden;
+    }
+
+    .container-fluid {
+        padding: 0 20px;
+    }
+
+    .banner .content h1 {
+        font-size: 50px;
+    }
+
+    .icon1 {
+        max-width: 10px;
+    }
+
+    #right_event {
+        padding-top: 0;
+    }
+
+    .event .content h1 {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .event .button {
+        padding-top: 35px;
+    }
+
+    .artist p {
+        padding-bottom: 0;
+    }
+
+    .chat .content h1 {
+        font-size: 25px;
+    }
+
+    .chat,
+    .footer {
+        padding: 20px 0;
+    }
+
+    .footer_widget ul li {
+        margin-top: 10px;
+    }
+
+    .footer_widget ul li a {
+        font-size: 15px;
+    }
+
+    .footer_widget ul li a:hover {
+        font-size: 20px;
+    }
+
+    .mail_footer {
+        font-size: 25px;
+    }
+
+    .copyright h6 {
+        padding-top: 0;
+    }
+
+
+
+    .event_widget_one {
+        padding-bottom: 0;
+    }
+
+    .event_banner .content .content_img {
+        max-width: 100%;
+    }
+
+    .event_banner .icons {
+        position: relative;
+    }
+
+    .event_banner .icons {
+        position: relative;
+        margin-top: 20px;
+    }
+
+    .event_banner .icons {
+        overflow: hidden;
+    }
+
+    .event_banner .icons li {
+        float: left;
+        margin-right: 10px;
+        margin-bottom: 0;
+    }
+
+    .event_widget_one .content {
+        margin: 20px 0;
+    }
+
+    .container {
+        padding: 0 10px;
+    }
+
+
+
+
+    .artist_banner .artist_heading h1 {
+        font-size: 40px;
+    }
+
+    .artist_banner .content h6 {
+        max-width: 100%;
+    }
+
+    .artist_banner .content ol {
+        padding-left: 15px;
+    }
+
+    .artist_banner .content .social {
+        margin-top: 20px;
+    }
+
+
+
+
+    .project_banner .banner_content {
+        margin-top: 0;
+    }
+
+    .project_banner .heading {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+
+    .artist_widget_four .mail_widget {
+        font-size: 21px;
+    }
+
+}
