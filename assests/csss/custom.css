@@ -47,7 +47,14 @@ ol{
   margin: 0;
   list-style: none;
 }
-
+.ui-widget.ui-widget-content {
+  border: none;
+  background: transparent;
+}
+.ui-widget-header {
+  border: none;
+  background: transparent;
+}
 
 
 
